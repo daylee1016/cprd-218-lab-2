@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0%;
+}
+h1{
+    color:#97bf04;
+    background-color: #120323;
+    padding: 30px;
+    text-align: center;
+}
+img{
+   margin:auto;
+   display:flex;
+    width: 900px 600px;
+    box-shadow: 4px 5px 10px 10px;/*x y blur spread*/;
+}
+div{
+    margin-top: 40px;
+    text-align: center;
+}
+Button{
+    text-align:center;
+    margin:auto;
+    background-color: #d9043d;
+}
+Button:hover{
+    background-color:#97bf04
+};
+Button:active{
+    background-color:#97bf04;
+}
